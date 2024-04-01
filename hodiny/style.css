@@ -1,0 +1,31 @@
+.clock {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .timer-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#timer {
+    font-size: 40px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.clock {
+    font-size: 2em;
+}
+
+.hodiny{
+    text-align: center;
+  
+     border-radius: 10px;
+      border: 1px;
+       
+}
